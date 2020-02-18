@@ -1,0 +1,23 @@
+.botaoAmarelo{
+    width: 100px;
+    height: 30px;
+    position: absolute;
+    top: 30px;
+    left: 10px;
+}
+
+.botaoVermelho{
+    width: 100px;
+    height: 30px;
+    position: absolute;
+    top: 60px;
+    left: 10px;
+}
+
+.botaoAzul{
+    width: 100px;
+    height: 30px;
+    position: absolute;
+    top: 90px;
+    left: 10px;
+}
