@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="/Users/deboraguerra/Desktop/Prog. Web/projetos-java/Desafio02"/>
+		<item value="/Users/deboraguerra/Desktop/Prog. Web/projetos-java/desafio02"/>
+		<item value="/Users/deboraguerra/Desktop/Prog. Web/projetos-java/Projeto007"/>
+	</list>
+	<section name="CleanDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="478"/>
+		<item key="DIALOG_Y_ORIGIN" value="175"/>
+		<item key="DIALOG_WIDTH" value="484"/>
+		<item key="DIALOG_HEIGHT" value="372"/>
+		<item key="TOGGLE_SELECTED" value="false"/>
+	</section>
+</section>

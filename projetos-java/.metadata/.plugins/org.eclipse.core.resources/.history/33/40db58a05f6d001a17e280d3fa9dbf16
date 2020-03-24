@@ -1,0 +1,8 @@
+function validarCampos() {
+	var peso = document.getElementById('nbrPeso');
+	var altura = document.getElementById('nbrAltura');
+	
+	if(!isNaN(peso) || !isNaN(altura)) {
+        alert('Valor inválido!');
+	}
+}

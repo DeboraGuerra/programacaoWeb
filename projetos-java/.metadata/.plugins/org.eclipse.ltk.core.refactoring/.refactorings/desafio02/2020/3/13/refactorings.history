@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;p&apos; in &apos;br.com.web.CalculadoraServlet.doGet(...)&apos; to &apos;out&apos;&#x0A;- Original project: &apos;Desafio02&apos;&#x0A;- Original element: &apos;br.com.web.CalculadoraServlet.doGet(HttpServletRequest, HttpServletResponse).p&apos;&#x0A;- Renamed element: &apos;p&apos;&#x0A;- Update references to refactored element" description="Rename local variable &apos;p&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;br.com.web{CalculadoraServlet.java[CalculadoraServlet~doGet~QHttpServletRequest;~QHttpServletResponse;@p!686!718!698!698!QPrintWriter;!0!false" name="out" references="true" stamp="1584972954080" version="1.0"/>
+</session>

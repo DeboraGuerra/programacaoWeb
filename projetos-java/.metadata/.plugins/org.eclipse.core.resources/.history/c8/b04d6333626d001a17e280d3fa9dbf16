@@ -1,0 +1,21 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+		<meta charset="UTF-8">
+		<title>Calculadora de IMC</title>
+	</head>
+	
+	<body>
+		<form method="get" action="index.htm">
+			<h2><%=request.getAttribute("frase")%></h2>
+			<h3><%=request.getAttribute("result")%></h3>
+			<input type="submit" value="Calcular Novamente">
+		</form>
+	</body>
+	
+</html>

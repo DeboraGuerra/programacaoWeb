@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+.bkgPadrao {
+	background-color: #98fb98;
+}
+
+.caixa {
+    width: 200px;
+    height: 30px;
+    font-size: 20px;
+    border-top-color: #006400;
+    border-left-color: #006400;
+}
+
+.botao1 {
+    background-color: #ee82ee;
+    width: 200px;
+    height: 30px;
+    font-size: 20px;
+    border-right-color: #8b008b;
+    border-bottom-color: #8b008b;
+}
+
+.botao2 {
+    background-color: #e6e6fa;
+    width: 250px;
+    height: 30px;
+    font-size: 20px;
+    border-right-color: #8a2be2;
+    border-bottom-color: #8a2be2;
+}

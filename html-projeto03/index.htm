@@ -1,0 +1,23 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <link rel="stylesheet" type="text/css" href="css/style.css"></link>
+        <script type="text/javascript" src="javascript/script.js"></script>
+        <title>Projeto 03</title>
+    </head>
+
+    <body>
+        <!--a propriedade 'name' pode ser a mesma para mais de um componente-->
+        Matemática
+        <input type="checkbox" id="ckMatematica" name="ckMateria">
+        Português
+        <input type="checkbox" id="ckPortugues" name="ckMateria">
+        Inglês
+        <input type="checkbox" id="ckIngles" name="ckMateria">
+        <input type="button" id="btnSelecaoMateria" onclick="selecionarMateria();" value="Checar">
+        <!--o 'div' é responsável por modularizar / organizar / dividir áreas da página-->
+
+        <div id="dvConteudo">
+        </div>
+    </body>
+</html>

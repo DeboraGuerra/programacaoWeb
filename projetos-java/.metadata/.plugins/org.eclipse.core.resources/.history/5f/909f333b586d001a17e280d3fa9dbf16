@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+		<meta charset="UTF-8">
+		<title>Calculadora de IMC</title>
+	</head>
+	
+	<body>
+		<form method="get" action="imc">
+			
+			Altura (m)</br>
+			<input type="number" placeholder="0,00" step="0.01" name="altura"></br></br></br>
+			
+			Peso (kg)</br>
+			<input type="number" placeholder="0,00" step="0.01" name="peso"></br></br></br>
+			
+			<input type="submit" value="Calcular IMC">
+		</form>
+	</body>
+	
+</html>

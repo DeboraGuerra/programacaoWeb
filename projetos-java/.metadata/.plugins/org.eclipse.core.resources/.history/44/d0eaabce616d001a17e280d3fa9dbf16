@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+.caixa {
+    width: 200px;
+    height: 30px;
+    font-size: 20px;
+    font-family: georgia;
+    border-top-color: #b0e0e6;
+    border-left-color: #b0e0e6;
+}
+
+.botao {
+    background-color: #e6e6fa;
+    width: 200px;
+    height: 30px;
+    font-size: 20px;
+    border-right-color: #8a2be2;
+    border-bottom-color: #8a2be2;
+}
